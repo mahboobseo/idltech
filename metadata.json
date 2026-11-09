@@ -1,0 +1,6 @@
+{
+  "name": "Photo to Text - AI-Powered Image & PDF Text Extractor",
+  "description": "Extract text from images, photos, receipts, handwriting, and PDFs with high-accuracy AI OCR. Translate into 100+ languages, summarize, rewrite, and chat with your documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
